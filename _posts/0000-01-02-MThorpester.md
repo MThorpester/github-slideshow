@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your test
+> Wherever you go, there you are!
+
 Use the left arrow to go back!
